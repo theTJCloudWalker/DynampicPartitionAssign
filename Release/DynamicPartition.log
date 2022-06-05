@@ -1,0 +1,10 @@
+﻿  cmd_console_tools.cpp
+D:\Files\code\C&C++\vs2022\DynamicPartition\cmd_console_tools.cpp(209,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\Files\code\C&C++\vs2022\DynamicPartition\main.cpp(44,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\code\C&C++\vs2022\DynamicPartition\main.cpp(286,46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 210 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DynamicPartition.vcxproj -> D:\Files\code\C&C++\vs2022\DynamicPartition\x64\Release\DynamicPartition.exe
